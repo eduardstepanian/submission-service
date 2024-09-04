@@ -1,0 +1,38 @@
+# Laravel specific
+/vendor/
+/node_modules/
+/public/storage
+/storage/*.key
+/.env
+Homestead.yaml
+Homestead.json
+/.idea
+/.vscode
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Composer
+composer.lock
+
+# NPM
+package-lock.json
+yarn.lock
+
+# Log files
+*.log
+/storage/logs/*
+
+# Cache files
+/bootstrap/cache/*
+
+# Test files
+/tests/_support
+/tests/_output
+
+# System files
+*.swp
+*~
