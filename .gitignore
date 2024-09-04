@@ -36,3 +36,4 @@ yarn.lock
 # System files
 *.swp
 *~
+/.phpunit.result.cache
